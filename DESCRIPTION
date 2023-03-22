@@ -1,7 +1,7 @@
 Package: lenght
 Title: Allow Misspellings of Length Function
 Version: 0.0.0.9000
-Authors@R: c(person(given = "Jacob", family = "Bradley", email = "cobrbradley@gmail.com", role = c("aut", "cre"), comment = c(ORCID = "YOUR-ORCID-ID")), person(given = "Isabella", family = "Deutsch", email = "i.bella.deutsch@gmail.com", role = "aut"))
+Authors@R: c(operson(given = "Jacob", family = "Bradley", email = "cobrbradley@gmail.com", role = c("aut", "cre"), comment = c(ORCID = "0000-0003-1616-4969")), person(given = "Isabella", family = "Deutsch", email = "i.bella.deutsch@gmail.com", role = "aut"))
 Description: Convenient aliases for common mispellings of the base R function length. These include every permutation of the final three letters of the word length.
 License: MIT + file LICENSE
 Encoding: UTF-8
