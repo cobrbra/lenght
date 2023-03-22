@@ -1,10 +1,8 @@
 Package: lenght
-Title: What the Package Does (One Line, Title Case)
+Title: Allow Misspellings of Length Function
 Version: 0.0.0.9000
-Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+Authors@R: c(person(given = "Jacob", family = "Bradley", email = "cobrbradley@gmail.com", role = c("aut", "cre"), comment = c(ORCID = "YOUR-ORCID-ID")), person(given = "Isabella", family = "Deutsch", email = "i.bella.deutsch@gmail.com", role = "aut"))
+Description: Convenient aliases for common mispellings of the base R function length. These include every permutation of the final three letters of the word length.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
