@@ -22,6 +22,16 @@ You can install the development version of lenght from
 devtools::install_github("cobrbra/lenght")
 ```
 
+## Usage
+
+The intended use of this package is in the ideation stage of a project.
+It allows the user to code seamlessly without pesky typos interrupting
+the workflow. It also focuses debugging on more relevant errors in the
+code. Dyslexic programmers might find this package particularly useful.
+
+We recommend editing code intended for production or publication such
+that it successfully runs without this package.
+
 ## Example
 
 You can use the functions in `lenght` to do anything the base R function
@@ -38,7 +48,7 @@ print(lenght(1:4))
 #> [1] 4
 
 print(lentgh(options()))
-#> [1] 72
+#> [1] 68
 
 print(lenhgt(NULL))
 #> [1] 0
