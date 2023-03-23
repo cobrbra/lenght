@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# lenght
+# lenght <img src="man/figures/LEN-HEX.png" align="right" height="138" />
 
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/cobrbra/lenght/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/cobrbra/lenght/actions/workflows/R-CMD-check.yaml)

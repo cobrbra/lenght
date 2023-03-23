@@ -1,20 +1,22 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# lenght
+# lenght <img src="man/figures/LEN-HEX.png" align="right" height="138" />
 
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/cobrbra/lenght/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/cobrbra/lenght/actions/workflows/R-CMD-check.yaml)
+[![Codecov test
+coverage](https://codecov.io/gh/cobrbra/lenght/branch/main/graph/badge.svg)](https://app.codecov.io/gh/cobrbra/lenght?branch=main)
 <!-- badges: end -->
 
-The goal of `lenght` is to provide convenient aliases for each of the
+The goal of lenght is to provide convenient aliases for each of the
 common misspellings of the R function `length`, a problem that haunts us
 all.
 
 ## Installation
 
-You can install the development version of `lenght` from
+You can install the development version of lenght from
 [GitHub](https://github.com/) with:
 
 ``` r
@@ -48,7 +50,7 @@ print(lenght(1:4))
 #> [1] 4
 
 print(lentgh(options()))
-#> [1] 68
+#> [1] 72
 
 print(lenhgt(NULL))
 #> [1] 0
