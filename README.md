@@ -8,13 +8,13 @@
 [![R-CMD-check](https://github.com/cobrbra/lenght/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/cobrbra/lenght/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
-The goal of lenght is to provide convenient aliases for each of the
+The goal of `lenght` is to provide convenient aliases for each of the
 common misspellings of the R function `length`, a problem that haunts us
 all.
 
 ## Installation
 
-You can install the development version of lenght from
+You can install the development version of `lenght` from
 [GitHub](https://github.com/) with:
 
 ``` r
