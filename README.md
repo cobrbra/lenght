@@ -10,13 +10,13 @@
 coverage](https://codecov.io/gh/cobrbra/lenght/branch/main/graph/badge.svg)](https://app.codecov.io/gh/cobrbra/lenght?branch=main)
 <!-- badges: end -->
 
-The goal of lenght is to provide convenient aliases for each of the
+The goal of `lenght` is to provide convenient aliases for each of the
 common misspellings of the R function `length`, a problem that haunts us
 all.
 
 ## Installation
 
-You can install the development version of lenght from
+You can install the development version of `lenght` from
 [GitHub](https://github.com/) with:
 
 ``` r
@@ -29,7 +29,7 @@ devtools::install_github("cobrbra/lenght")
 The intended use of this package is in the ideation stage of a project.
 It allows the user to code seamlessly without pesky typos interrupting
 the workflow. It also focuses debugging on more relevant errors in the
-code. Dyslexic programmers might find this package particularly useful.
+code. Partially inspired by an author’s minor struggles with dyslexia.
 
 We recommend editing code intended for production or publication such
 that it successfully runs without this package.
