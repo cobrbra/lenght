@@ -14,6 +14,11 @@ The goal of `lenght` is to provide convenient aliases for each of the
 common misspellings of the R function `length`, a problem that haunts us
 all.
 
+## Authors
+
+*Creators* and *contributors*: Isabella Deutsch, Jacob Bradley<br>
+*Maintainer*: Jacob Bradley
+
 ## Installation
 
 You can install the development version of `lenght` from
