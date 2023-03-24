@@ -35,6 +35,12 @@ You can install the development version of `lenght` from [GitHub](https://github
 devtools::install_github("cobrbra/lenght")
 ```
 
+or via CRAN with 
+
+``` r
+install.packages("lenght"):
+```
+
 ## Usage
 
 The intended use of this package is in the ideation stage of a project. It allows the user to code seamlessly without pesky typos interrupting the workflow. It also focuses debugging on more relevant errors in the code. Partially inspired by an author's minor struggles with dyslexia. 

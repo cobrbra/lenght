@@ -29,6 +29,12 @@ You can install the development version of `lenght` from
 devtools::install_github("cobrbra/lenght")
 ```
 
+or via CRAN with
+
+``` r
+install.packages("lenght"):
+```
+
 ## Usage
 
 The intended use of this package is in the ideation stage of a project.
