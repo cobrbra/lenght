@@ -32,7 +32,7 @@ devtools::install_github("cobrbra/lenght")
 or via CRAN with
 
 ``` r
-install.packages("lenght"):
+install.packages("lenght")
 ```
 
 ## Usage
